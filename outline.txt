@@ -1,0 +1,29 @@
+
+
+What & why README.md
+how to make a comment
+normal text & new line
+horizontal rule
+headings
+paragraph
+italic
+bold
+strikethrough
+inline code block
+multiple line code block
+list 
+link
+image
+emoji
+table
+
+
+
+
+
+
+
+
+
+
+
